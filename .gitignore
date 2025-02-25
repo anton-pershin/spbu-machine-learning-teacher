@@ -1,3 +1,13 @@
+# Macos artifacts
+.DS_Store
+
+# Figures
+*.svg
+*.png
+
+# Vim artifacts
+*.swp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
